@@ -4,7 +4,7 @@ A simple Python program that checks whether a given 16-digit credit card number 
 
 
 ## 🔎 Preview
-<img width="1280" height="679" alt="Credit_Card_Validator" src="https://github.com/user-attachments/assets/58c18dc7-b79f-4c9e-86a0-d258ce5d7b74" />
+<img width="1280" height="680" alt="Credit_Card_Validator" src="https://github.com/user-attachments/assets/42a921c6-b3ff-45f9-98d4-7be7ea8fb063" />
 
 
 ## ⚙️ Features
