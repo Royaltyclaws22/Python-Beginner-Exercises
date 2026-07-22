@@ -34,7 +34,7 @@ python Caesar_Cipher.py
 
 ## 💡 Usage
 
-1. Select an option from the menu:
+1. Select option `1` or `2` from the menu:
 
 ```text
 === Caesar Cipher ===
@@ -59,3 +59,5 @@ Enter the shift key: 3
 
 Encrypted text: Khoor Zruog!
 ```
+
+5. Select option `3` to exit the program. 
