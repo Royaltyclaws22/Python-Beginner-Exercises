@@ -3,7 +3,7 @@
 A simple Python program that converts integers to Roman numerals and Roman numerals back to integers, while also processing input files with numerical data.
 
 ## 🔎 Preview
-<img width="1280" height="680" alt="Roman_Numerals" src="https://github.com/user-attachments/assets/78fa5d4d-09c7-416f-a06c-31a04e9c45c9" />
+<img width="1280" height="680" alt="Roman_Numerals" src="https://github.com/user-attachments/assets/f8b98155-0cee-4626-a50f-87a92d9c9677" />
 
 
 ## ⚙️ Features
